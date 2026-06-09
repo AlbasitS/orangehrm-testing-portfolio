@@ -18,15 +18,16 @@ This repository contains QA testing portfolio for OrangeHRM web application, inc
 - Employee Management (CRUD)
 
 ## Project Structure
+```
 src/
 ├── test/
-│   ├── java/
-│   │   ├── pages/
-│   │   ├── steps/
-│   │   └── runners/
-│   └── resources/
-│       └── features/
-
+   ├── java/
+   │   ├── pages/
+   │   ├── steps/
+   │   └── runners/
+   └── resources/
+       └── features/
+```
 ## How to Run
 ```bash
 mvn test
