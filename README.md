@@ -10,7 +10,7 @@ This repository contains QA testing portfolio for OrangeHRM web application, inc
 - **BDD Framework:** Cucumber
 - **IDE:** IntelliJ IDEA
 - **Test Management:** Jira
-- **Build Tool:"" Maven
+- **Build Tool:** Maven
 
 ## Test Coverage
 - Authentication (Login)
