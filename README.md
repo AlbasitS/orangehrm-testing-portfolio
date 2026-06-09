@@ -20,7 +20,7 @@ This repository contains QA testing portfolio for OrangeHRM web application, inc
 ## Project Structure
 ```
 src/
-├── test/
+└── test/
    ├── java/
    │   ├── pages/
    │   ├── steps/
